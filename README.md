@@ -1,7 +1,10 @@
-# lip_reading_keras
+# Keras Implementation of paper by Themos Stafylakis (https://github.com/tstafylakis) and Georgios Tzimiropoulos
+https://arxiv.org/pdf/1703.04105.pdf
+
+
+
 
 For any question feel free to ask
 
-vladi katsman : <katsmanva@gmail.com>
-
-omer cahana : <omer4436@gmail.com>
+Katsman Vlad : <katsmanva@gmail.com>
+Cahana Omer : <omer4436@gmail.com>
