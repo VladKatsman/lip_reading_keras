@@ -1,4 +1,4 @@
-### Keras Implementation of paper **Combining Residual Networks with LSTMs for Lipreading**
+### Keras Implementation of paper "**Combining Residual Networks with LSTMs for Lipreading**"
 
 by *Themos Stafylakis* (https://github.com/tstafylakis) and *Georgios Tzimiropoulos* 
 
